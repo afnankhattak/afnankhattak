@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm afnan</h1>
-<h3 align="center">A Software Engineer having more than 4+ years of experience and expertise in Web Development & Mobile App Development.Hands-on experience in the areas of Requirement Analysis, Design, Development, Testing, Deployment and Implementation of large-scale applications; domains included eCommerce, Travels & Tourism, RealState.</h3>
+<h3 align="center">Results-driven Full-Stack Developer with a proven track record in designing, implementing, and maintaining robust web applications and mobile solutions. Specialized in Backend development, Android application development, Sharepoint and proficient in DevOps practices, Micro-services Architecture, Event Driven Architecture (Kafka), 3-Tier & N-Tier Architecture. Adept at collaborating with cross-functional teams to drive project success. Known for delivering high-quality code within deadlines and optimizing system performance. Strong problem-solving skills and a passion for staying updated with emerging technologies.</h3>
 
 - 🔭 I’m currently working on [Office Automation](https://www.systemsltd.com/news/systems-limited-and-ntdc-took-part-in-the-kickoff-meeting-in-lahore)
 
